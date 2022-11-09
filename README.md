@@ -17,10 +17,14 @@ Neu angelegtes Androidstudio-Projekt mit einer einzigen, leeren Activity
 (EmptyActivity mit Hello World) und diesem Readme.
 
 ## Etappe 2
-Die MainActivity wird durch Refactoring zur StartActivity und erhält ein eigenes Layout.
-![img.png](img.png)
-Die Felder und Buttons werden vorerst alle in Englisch beschriftet.
+- Die MainActivity wird durch Refactoring zur StartActivity und erhält ein eigenes Layout.
+- Die Felder und Buttons werden vorerst alle in Englisch beschriftet.
 
+![img_1.png](img_1.png)
+![img.png](img.png)
+
+## Etappe 3
+- Die StartActivity erhält ein Landscape-Layout
 
 
 
