@@ -24,9 +24,14 @@ Neu angelegtes Androidstudio-Projekt mit einer einzigen, leeren Activity
 ![img.png](img.png)
 
 ## Etappe 3
-- Die StartActivity erhält ein Landscape-Layout
+- Die StartActivity erhält ein Landscape-Layout.
 
+![img_2.png](img_2.png)
 
+## Etappe 4
+- Hard Coded Strings ersetzen durch 
+- Refactoring: Sinnvolle Namen (Identifier) für die UI-Elemente (optional)
+- Lokalisierung für eine zweite Sprache (DE)
 
 
 

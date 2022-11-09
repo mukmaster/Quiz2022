@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz 2022</string>
+    <string name="btn2_string">Frage 2</string>
+    <string name="btn3_string">Frage 3</string>
+    <string name="btn4_string">Frage 4</string>
+    <string name="btn5_string">Frage 5</string>
+    <string name="btn6_string">Frage 6</string>
+    <string name="btn_usage_string">Verwendungsinfo</string>
+    <string name="tv_title_string">Teste dein Wissen!</string>
+    <string name="btn1_string">Frage 1</string>
+    <string name="tv_score_string">Korrekte Antworten: 0</string>
+</resources>

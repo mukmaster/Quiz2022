@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Quiz 2022</string>
+    <string name="btn2_string">Question 2</string>
+    <string name="btn3_string">Question 3</string>
+    <string name="btn4_string">Question 4</string>
+    <string name="btn5_string">Question 5</string>
+    <string name="btn6_string">Question 6</string>
+    <string name="btn_usage_string">Usage Data</string>
+    <string name="tv_title_string">Test Your Knowledge!</string>
+    <string name="btn1_string">Question 1</string>
+    <string name="tv_score_string">Correct Answers: 0</string>
 </resources>
