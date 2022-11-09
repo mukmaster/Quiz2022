@@ -12,7 +12,7 @@ Etappe der Entwicklung wird ein commit in GitHub durchgeführt, der hier dokumen
 Auf diese Weise sollte es relativ leicht möglich sein, sich jederzeit bei einem bestimmten 
 Entwicklungsstand wieder einzuklinken, falls das eigene Projekt nicht funktioniert.
 
-##Etappe1
+## Etappe1
 Neu angelegtes Androidstudio-Projekt mit einer einzigen, leeren Activity 
 (EmptyActivity mit Hello World) und diesem Readme.
 
