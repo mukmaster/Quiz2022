@@ -16,4 +16,7 @@
     <string name="rb4text">Quarkie</string>
     <string name="rb5text">Android Q</string>
     <string name="q1answer">Check In</string>
+    <string name="textViewFeedback">Excellent! Right Answer.</string>
+    <string name="textViewPoints">You just earned 1 point.</string>
+    <string name="backButton">Back</string>
 </resources>
