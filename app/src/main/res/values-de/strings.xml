@@ -10,4 +10,6 @@
     <string name="tv_title_string">Teste dein Wissen!</string>
     <string name="btn1_string">Frage 1</string>
     <string name="tv_score_string">Korrekte Antworten: 0</string>
+    <string name="q1text">Welchen Namen trägt Android Version 8?</string>
+    <string name="q1answer">Und los!</string>
 </resources>

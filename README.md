@@ -12,7 +12,7 @@ Etappe der Entwicklung wird ein commit in GitHub durchgeführt, der hier dokumen
 Auf diese Weise sollte es relativ leicht möglich sein, sich jederzeit bei einem bestimmten 
 Entwicklungsstand wieder einzuklinken, falls das eigene Projekt nicht funktioniert.
 
-## Etappe1
+## Etappe 1
 Neu angelegtes Androidstudio-Projekt mit einer einzigen, leeren Activity 
 (EmptyActivity mit Hello World) und diesem Readme.
 
@@ -29,9 +29,25 @@ Neu angelegtes Androidstudio-Projekt mit einer einzigen, leeren Activity
 ![img_2.png](img_2.png)
 
 ## Etappe 4
-- Hard Coded Strings ersetzen durch 
+- Hard Coded Strings ersetzen durch String-Ressourcen
 - Refactoring: Sinnvolle Namen (Identifier) für die UI-Elemente (optional)
 - Lokalisierung für eine zweite Sprache (DE)
+
+## Etappe 5
+- Anlegen einer zweiten Activity für Frage 1 (Q1Activity, RadioGroup)
+
+![img_3.png](img_3.png)
+
+## Etappe 6
+- Eventhandling für StartActivity implementieren (hier: onClick)
+- Intent in StartActivity: Verzweigen zu Q1Activity
+
+## Etappe 7
+- FeedbackActivity implementieren: Reaktion auf Benutzerantwort
+- Antwortinformation in Intent mitgeben
+
+
+
 
 
 

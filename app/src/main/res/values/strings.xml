@@ -9,4 +9,11 @@
     <string name="tv_title_string">Test Your Knowledge!</string>
     <string name="btn1_string">Question 1</string>
     <string name="tv_score_string">Correct Answers: 0</string>
+    <string name="q1text">What is the name for Android Version 8?</string>
+    <string name="rb1text">Nougat</string>
+    <string name="rb2text">Oreo</string>
+    <string name="rb3text">Pie</string>
+    <string name="rb4text">Quarkie</string>
+    <string name="rb5text">Android Q</string>
+    <string name="q1answer">Check In</string>
 </resources>
